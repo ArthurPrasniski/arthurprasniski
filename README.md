@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Arthur Prasniski</h1>
+<h3 align="center">A Web and Mobile Developer </h3>
 
-<!--
-**ArthurPrasniski/arthurprasniski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-@arthurprasniski-0F53BA?style=for-the-badge&logo=0F53BA&logo=twitter&logoColor=white&link=https://twitter.com/arthurprasniski)](https://twitter.com/arthurprasniski)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Arthur%20Prasniski-0F53BA?style=for-the-badge&logo=0F53BA&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-prasniski-717a54155/)](https://www.linkedin.com/in/arthur-prasniski-717a54155/)
+
+  [![Outlook Badge](https://img.shields.io/badge/email-prasniski@outlook.com-0F53BA?style=for-the-badge&logo=0F53BA&logo=Linkedin&logoColor=white&link=mailto:prasniski@outlook.com)](prasniski@outlook.com)
+
+</div>
+
+- 👨‍💻 I’m currently working on [PMSL](https://www.saoleopoldo.rs.gov.br/)
+- 💻 I’m currently learning Typescript, React and React Native
+- 📫 How to reach me: **prasniski@outlook.com**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurprasniski&show_icons=true" alt="arthurprasniski" />
+</p>
