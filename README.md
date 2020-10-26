@@ -11,8 +11,8 @@
 
 </div>
 
-- 👨‍💻 I’m currently working on [PMSL](https://www.saoleopoldo.rs.gov.br/)
-- 💻 I’m currently learning Typescript, React and React Native
+- 👨‍💻 I’m currently working on [GVDASA](http://gvdasa.com.br/)
+- 💻 I’m currently learning Node, Typescript, React and React Native
 - 📫 How to reach me: **prasniski@outlook.com**
 
 <p align="center">
