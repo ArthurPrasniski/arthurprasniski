@@ -11,7 +11,7 @@
 
 </div>
 
-- 👨‍💻 I’m currently working on [GVDASA](http://gvdasa.com.br/)
+- 👨‍💻 Open to work
 - 💻 I’m currently learning Node, Typescript, React and React Native
 - 📫 How to reach me: **prasniski@outlook.com**
 
