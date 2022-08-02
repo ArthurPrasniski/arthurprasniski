@@ -15,5 +15,5 @@
 - 📫 How to reach me: **prasniski@outlook.com**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurprasniski&show_icons=true" alt="arthurprasniski" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurprasniski&show_icons=true&theme=radical alt="arthurprasniski" />
 </p>
