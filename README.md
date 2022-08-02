@@ -11,8 +11,7 @@
 
 </div>
 
-- 👨‍💻 Open to work
-- 💻 I’m currently learning Node, Typescript, React and React Native
+- 💻 I’m currently learning Typescript and React Native
 - 📫 How to reach me: **prasniski@outlook.com**
 
 <p align="center">
